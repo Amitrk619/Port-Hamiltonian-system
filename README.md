@@ -4,7 +4,7 @@ The Port Hamiltonian system (PHs) provides a framework for network modeling of m
 
 # Simple Problem : Mass-spring
 
-I have taken a simple problem of mass-spring for our first part of simulation. The spring-mass system consists of a point mass with weight (m), a linear spring
+A simple problem of mass-spring is being taken for our first part of simulation. The spring-mass system consists of a point mass with weight (m), a linear spring
 with spring constant (k). The point mass(m) is moving in one direction without any friction under the influence of a spring force corresponding to the spring with
 constant(K).
 
@@ -20,7 +20,7 @@ constant(K).
 
 # Linear electrical circuit with Resistor, Capacitor and Inductor
 
-I have taken a circuit having Resistor, Inductors with magnetic energies H(ϕ) and capacitor with electric energy H(Q)connected in series form. There are
+A circuit having Resistor, Inductors with magnetic energies H(ϕ) and capacitor with electric energy H(Q)connected in series form. There are
 two energy storing element which are L and C, such a circuit give rise to second order differential equation and hence called second order circuit.linear electrical
 circuit using Resistor, Capacitor and Inductor is equivalent to the second-order model. Although extremely simple, this example reflects some of the main characteristics of port-based network modeling: the system is regarded as the coupling 15 of the energy-storing Inductor and capacitor system with the energy-dissipating element Resistor. In general, in port-based modeling the, possibly large-scale, physical system is regarded as the interconnection of three types of ideal components: energy-storing elements, energy-dissipating (resistive) elements, and energyrouting elements. 
 
